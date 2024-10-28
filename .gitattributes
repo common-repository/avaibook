@@ -1,0 +1,43 @@
+* text=auto !eol
+assets/banner-772x250.jpg -text svneol=unset#image/jpeg
+assets/icon-128x128.png -text svneol=unset#image/png
+assets/icon-256x256.png -text svneol=unset#image/png
+assets/screenshot-1.png -text svneol=unset#image/png
+assets/screenshot-2.png -text svneol=unset#image/png
+assets/screenshot-3.png -text svneol=unset#image/png
+assets/screenshot-4.png -text svneol=unset#image/png
+assets/screenshot-5.png -text svneol=unset#image/png
+assets/screenshot-6.png -text svneol=unset#image/png
+assets/screenshot-7.png -text svneol=unset#image/png
+assets/screenshot-8.png -text svneol=unset#image/png
+assets/screenshot-9.png -text svneol=unset#image/png
+assets/screenshot-10.png -text svneol=unset#image/png
+/avaibook.php -text
+css/admin.css -text
+css/lightpick.css -text
+includes/admin.php -text
+includes/front.php -text
+includes/frontCss.php -text
+js/admin.js -text
+js/colorpicker.js -text
+js/front.js -text
+js/lightpick.js -text
+js/moment-with-locales.min.js -text
+languages/avaibook-ca_ES.mo -text
+languages/avaibook-ca_ES.po -text
+languages/avaibook-de_DE.mo -text
+languages/avaibook-de_DE.po -text
+languages/avaibook-es_ES.mo -text
+languages/avaibook-es_ES.po -text
+languages/avaibook-fr_FR.mo -text
+languages/avaibook-fr_FR.po -text
+languages/avaibook-it_IT.mo -text
+languages/avaibook-it_IT.po -text
+languages/avaibook-nl_NL.mo -text
+languages/avaibook-nl_NL.po -text
+languages/avaibook-pt_PT.mo -text
+languages/avaibook-pt_PT.po -text
+languages/avaibook-ru_RU.mo -text
+languages/avaibook-ru_RU.po -text
+languages/avaibook.pot -text
+/readme.txt -text

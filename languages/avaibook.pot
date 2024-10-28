@@ -1,0 +1,229 @@
+# Copyright (C) 2019 Carlos G. Cerro cgcerro@gmail.com
+# This file is distributed under the same license as the AvaiBook plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: AvaiBook 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/avaibook\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-06-25T12:50:01+02:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.2.0\n"
+"X-Domain: avaibook\n"
+
+#. Plugin Name of the plugin
+msgid "AvaiBook"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "http://wordpress.org/plugins/avaibook/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Show Avaibook booking form in your wordpress"
+msgstr ""
+
+#. Author of the plugin
+msgid "Carlos G. Cerro cgcerro@gmail.com"
+msgstr ""
+
+#: avaibook.php:239
+msgid "Show Avaibook book form 1"
+msgstr ""
+
+#: avaibook.php:260
+msgid "Show Avaibook book form 2"
+msgstr ""
+
+#: avaibook.php:282
+msgid "Show Avaibook book form 3"
+msgstr ""
+
+#: includes/admin.php:3
+msgid "Form 1"
+msgstr ""
+
+#: includes/admin.php:3
+msgid "Form 2"
+msgstr ""
+
+#: includes/admin.php:3
+msgid "Form 3"
+msgstr ""
+
+#: includes/admin.php:15
+msgid "You can define three types of form. Each one can have a different configuration or presentation."
+msgstr ""
+
+#: includes/admin.php:33
+msgid "Rental Id is mandatory with \"single\" rental type."
+msgstr ""
+
+#: includes/admin.php:37
+msgid "Owner Id is mandatory with \"multiple\" rental type."
+msgstr ""
+
+#: includes/admin.php:41
+msgid "Configuration saved."
+msgstr ""
+
+#: includes/admin.php:47
+msgid "Form"
+msgstr ""
+
+#: includes/admin.php:54
+msgid "AvaiBook configuration"
+msgstr ""
+
+#: includes/admin.php:56
+msgid "Choose the type of Booking Engine you wish to link, and fill in the requested parameters (those marked with * are mandatory and you will find their value in your private area of ​​AvaiBook)"
+msgstr ""
+
+#: includes/admin.php:61
+msgid "Booking Engine type"
+msgstr ""
+
+#: includes/admin.php:64
+msgid "Single"
+msgstr ""
+
+#: includes/admin.php:65
+msgid "Multiple"
+msgstr ""
+
+#: includes/admin.php:67
+msgid "Choose the type of booking engine you want to use. To a single accommodation or to all your accommodations"
+msgstr ""
+
+#: includes/admin.php:73
+msgid "Rental Id"
+msgstr ""
+
+#: includes/admin.php:75
+msgid "This is the AvaiBook accommodation Id"
+msgstr ""
+
+#: includes/admin.php:79
+msgid "Reference"
+msgstr ""
+
+#: includes/admin.php:81
+#: includes/admin.php:99
+msgid "(optional) the generated reserves will have this reference so that you can distinguish them"
+msgstr ""
+
+#: includes/admin.php:92
+msgid "This is your customer id in AvaiBook"
+msgstr ""
+
+#: includes/admin.php:105
+msgid "Show rental units"
+msgstr ""
+
+#: includes/admin.php:106
+msgid "Show zones"
+msgstr ""
+
+#: includes/admin.php:107
+msgid "Show people"
+msgstr ""
+
+#: includes/admin.php:108
+msgid "Behavior in the booking engine"
+msgstr ""
+
+#: includes/admin.php:116
+msgid "Display options"
+msgstr ""
+
+#: includes/admin.php:118
+msgid "Choose how you want your widget to be and what colors you want it to have. If you do not mark any of the options below your widget will only be a button."
+msgstr ""
+
+#: includes/admin.php:121
+msgid "title"
+msgstr ""
+
+#: includes/admin.php:122
+msgid "This text title will be showed in your form"
+msgstr ""
+
+#: includes/admin.php:127
+msgid "Request dates"
+msgstr ""
+
+#: includes/admin.php:128
+msgid "show dates request's fields"
+msgstr ""
+
+#: includes/admin.php:135
+msgid "Request guest number"
+msgstr ""
+
+#: includes/admin.php:136
+msgid "show guest's numbers field"
+msgstr ""
+
+#: includes/admin.php:140
+msgid "Colour settings"
+msgstr ""
+
+#: includes/admin.php:141
+msgid "Set empty for keep your default style."
+msgstr ""
+
+#: includes/admin.php:144
+msgid "Background colour"
+msgstr ""
+
+#: includes/admin.php:153
+msgid "Main colour"
+msgstr ""
+
+#: includes/admin.php:162
+msgid "Text colour"
+msgstr ""
+
+#: includes/admin.php:176
+msgid "Save changes"
+msgstr ""
+
+#: includes/admin.php:181
+msgid "Options"
+msgstr ""
+
+#: includes/admin.php:183
+msgid "You can use this shortcode"
+msgstr ""
+
+#: includes/admin.php:185
+msgid "Only copy this code, and put it where you want in your post or pages."
+msgstr ""
+
+#: includes/admin.php:187
+msgid "Or you can use our widget"
+msgstr ""
+
+#: includes/admin.php:189
+msgid "Go to <a href=\"%s\">widgets section</a> and drag our widget \"avaibook%s\" where you want."
+msgstr ""
+
+#: includes/front.php:11
+msgid "Arrive date"
+msgstr ""
+
+#: includes/front.php:16
+msgid "Departure date"
+msgstr ""
+
+#: includes/front.php:24
+#: includes/front.php:25
+msgid "Guest Num."
+msgstr ""
+
+#: includes/front.php:29
+msgid "search"
+msgstr ""

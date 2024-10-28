@@ -1,0 +1,228 @@
+# Copyright (C) 2019 Carlos G. Cerro cgcerro@gmail.com
+# This file is distributed under the same license as the AvaiBook plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: AvaiBook 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/avaibook\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-06-25T10:52:19+02:00\n"
+"PO-Revision-Date: 2019-08-09 10:24+0200\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Domain: avaibook\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es_ES\n"
+
+msgid "Behavior in the booking engine"
+msgstr "Comportamiento en el motor de reservas"
+
+#. Plugin Name of the plugin
+msgid "AvaiBook"
+msgstr "AvaiBook"
+
+#. Plugin URI of the plugin
+msgid "http://wordpress.org/plugins/avaibook/"
+msgstr "http://wordpress.org/plugins/avaibook/"
+
+#. Description of the plugin
+msgid "Show Avaibook booking form in your wordpress"
+msgstr "Mostrar formulario de reservas de Avaibook en tu Wordpress"
+
+#. Author of the plugin
+msgid "Avaibook development team  dptotecnico@avaibook.com"
+msgstr "Avaibook development team  dptotecnico@avaibook.com"
+
+#: avaibook.php:239
+msgid "Show Avaibook book form 1"
+msgstr "Mostrar formulario AvaiBook 1"
+
+#: avaibook.php:260
+msgid "Show Avaibook book form 2"
+msgstr "Mostrar formulario AvaiBook 2"
+
+#: avaibook.php:282
+msgid "Show Avaibook book form 3"
+msgstr "Mostrar formulario AvaiBook 3"
+
+#: includes/admin.php:3
+msgid "Form 1"
+msgstr "Formulario 1"
+
+#: includes/admin.php:3
+msgid "Form 2"
+msgstr "Formulario 2"
+
+#: includes/admin.php:3
+msgid "Form 3"
+msgstr "Formulario 3"
+
+#: includes/admin.php:15
+msgid "You can define three types of form. Each one can have a different configuration or presentation."
+msgstr "Puedes definir tres tipos de formularios diferentes. Cada uno con una configuración o presentación diferente."
+
+#: includes/admin.php:33
+msgid "Rental Id is mandatory with \"single\" rental type."
+msgstr "El Id de alojamiento es obligatorio en el tipo de motor \"sencillo\"."
+
+#: includes/admin.php:37
+msgid "Owner Id is mandatory with \"multiple\" rental type."
+msgstr "El Id de propietario es obligatorio en el motor \"múltiple\"."
+
+#: includes/admin.php:41
+msgid "Configuration saved."
+msgstr "Configuración guardada."
+
+#: includes/admin.php:47
+msgid "Form"
+msgstr "Formulario"
+
+#: includes/admin.php:54
+msgid "AvaiBook configuration"
+msgstr "Configuración AvaiBook"
+
+#: includes/admin.php:56
+msgid "Choose the type of Booking Engine you wish to link, and fill in the requested parameters (those marked with * are mandatory and you will find their value in your private area of ​​AvaiBook)"
+msgstr "Elige el tipo de motor de reservas que quieres enlazar. Rellena los campos requeridos (Los marcados con * son obligatorios y encontraras su valor en el tu area privada de AvaiBook)"
+
+#: includes/admin.php:61
+msgid "Booking Engine type"
+msgstr "Tipo de motor AvaiBook"
+
+#: includes/admin.php:64
+msgid "Single"
+msgstr "Sencillo"
+
+#: includes/admin.php:65
+msgid "Multiple"
+msgstr "Múltiple"
+
+#: includes/admin.php:67
+msgid "Choose the type of booking engine you want to use. To a single accommodation or to all your accommodations"
+msgstr "Elige el tipo de motor de reservas que quieres usar. Para un único alojamiento o para todos tus alojamientos"
+
+#: includes/admin.php:73
+msgid "Rental Id"
+msgstr "Id de alojamiento"
+
+#: includes/admin.php:75
+msgid "This is the AvaiBook accommodation Id"
+msgstr "Este es el identificador de alojamiento"
+
+#: includes/admin.php:79
+msgid "Reference"
+msgstr "Referencia"
+
+#: includes/admin.php:92
+msgid "This is your customer id in AvaiBook"
+msgstr "Este es tu identificador de cliente en AvaiBook"
+
+#: includes/admin.php:99
+msgid "(optional) the generated reserves will have this reference so that you can distinguish them"
+msgstr "(opcional) las reservas generadas tendrán esta referencia anotada para que puedas distinguirlas"
+
+#: includes/admin.php:105
+msgid "Show rental units"
+msgstr "Mostrar unidades alojativas"
+
+#: includes/admin.php:106
+msgid "Show zones"
+msgstr "Mostrar zonas"
+
+#: includes/admin.php:107
+msgid "Show people"
+msgstr "Mostrar personas"
+
+#: includes/admin.php:116
+msgid "Display options"
+msgstr "Opciones de presentación"
+
+#: includes/admin.php:118
+msgid "Choose how you want your widget to be and what colors you want it to have. If you do not mark any of the options below your widget will only be a button."
+msgstr "Elige cómo quieres que sea tu widget y qué colores quieres que tenga. Si no marcas ninguna de las opciones tu widget será sólo un botón."
+
+#: includes/admin.php:121
+msgid "title"
+msgstr "título"
+
+#: includes/admin.php:122
+msgid "This text title will be showed in your form"
+msgstr "Este título será mostrado en tu formulario"
+
+#: includes/admin.php:127
+msgid "Request dates"
+msgstr "Pedir fechas"
+
+#: includes/admin.php:128
+msgid "show dates request's fields"
+msgstr "mostrar campos de fecha"
+
+#: includes/admin.php:135
+msgid "Request guest number"
+msgstr "Pedir número de clientes"
+
+#: includes/admin.php:136
+msgid "show guest's numbers field"
+msgstr "mostrar el campo de número de personas"
+
+#: includes/admin.php:140
+msgid "Colour settings"
+msgstr "Configuración de colores"
+
+#: includes/admin.php:141
+msgid "Set empty for keep your default style."
+msgstr "Mantener vacío para dejar tu estilo por defecto."
+
+#: includes/admin.php:144
+msgid "Background colour"
+msgstr "Color de fondo"
+
+#: includes/admin.php:153
+msgid "Main colour"
+msgstr "Color principal"
+
+#: includes/admin.php:162
+msgid "Text colour"
+msgstr "Color de texto"
+
+#: includes/admin.php:176
+msgid "Save changes"
+msgstr "Guardar cambios"
+
+#: includes/admin.php:181
+msgid "Options"
+msgstr "Opciones"
+
+#: includes/admin.php:183
+msgid "You can use this shortcode"
+msgstr "Puedes usar el siguiente shortcode"
+
+#: includes/admin.php:185
+msgid "Only copy this code, and put it where you want in your post or pages."
+msgstr "Sólo copia el código y pégalo donde quieras en tus posts o páginas."
+
+#: includes/admin.php:187
+msgid "Or you can use our widget"
+msgstr "O puedes usar nuestro widget"
+
+#: includes/admin.php:189
+msgid "Go to <a href=\"%s\">widgets section</a> and drag our widget \"avaibook%s\" where you want."
+msgstr "Ve a la <a href=\"%s\">sección de  widgets </a> y arrastra nuestro widget \"avaibook%s\" donde tú quieras."
+
+#: includes/front.php:11
+msgid "Arrive date"
+msgstr "Fecha de llegada"
+
+#: includes/front.php:16
+msgid "Departure date"
+msgstr "Fecha de salida"
+
+#: includes/front.php:24 includes/front.php:25
+msgid "Guest Num."
+msgstr "Número de personas"
+
+#: includes/front.php:29
+msgid "search"
+msgstr "buscar"

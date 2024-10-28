@@ -1,0 +1,232 @@
+# Copyright (C) 2019 Carlos G. Cerro cgcerro@gmail.com
+# This file is distributed under the same license as the AvaiBook plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: AvaiBook 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/avaibook\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-06-25T12:50:01+02:00\n"
+"PO-Revision-Date: 2019-07-30 11:08+0200\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Domain: avaibook\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: ca_ES\n"
+
+#. Plugin Name of the plugin
+msgid "AvaiBook"
+msgstr "AvaiBook"
+
+#. Plugin URI of the plugin
+msgid "http://wordpress.org/plugins/avaibook/"
+msgstr "http://wordpress.org/plugins/avaibook/"
+
+#. Description of the plugin
+msgid "Show Avaibook booking form in your wordpress"
+msgstr "Mostra el formulari de reserva d’Avaibook al teu wordpress"
+
+#. Author of the plugin
+msgid "Carlos G. Cerro cgcerro@gmail.com"
+msgstr "Carlos G. Cerro cgcerro@gmail.com"
+
+msgid "Avaibook development team  dptotecnico@avaibook.com"
+msgstr "Avaibook development team  dptotecnico@avaibook.com"
+
+#: avaibook.php:239
+msgid "Show Avaibook book form 1"
+msgstr "Mostra el formulari de reserva d’Avaibook 1"
+
+#: avaibook.php:260
+msgid "Show Avaibook book form 2"
+msgstr "Mostra el formulari de reserva d’Avaibook 2"
+
+#: avaibook.php:282
+msgid "Show Avaibook book form 3"
+msgstr "Mostra el formulari de reserva d’Avaibook 3"
+
+#: includes/admin.php:3
+msgid "Form 1"
+msgstr "Formulari 1"
+
+#: includes/admin.php:3
+msgid "Form 2"
+msgstr "Formulari 2"
+
+#: includes/admin.php:3
+msgid "Form 3"
+msgstr "Formulari 3"
+
+#: includes/admin.php:15
+msgid "You can define three types of form. Each one can have a different configuration or presentation."
+msgstr "Pots definir tres tipus de formulari. Cadascun pot tenir una configuració o presentació diferent."
+
+#: includes/admin.php:33
+msgid "Rental Id is mandatory with \"single\" rental type."
+msgstr "L’identificador de lloguer és obligatori amb un tipus de lloguer “únic”."
+
+#: includes/admin.php:37
+msgid "Owner Id is mandatory with \"multiple\" rental type."
+msgstr "L’identificador del propietari és obligatori amb un tipus de lloguer ”múltiple”."
+
+#: includes/admin.php:41
+msgid "Configuration saved."
+msgstr "Configuració desada."
+
+#: includes/admin.php:47
+msgid "Form"
+msgstr "Formulari"
+
+#: includes/admin.php:54
+msgid "AvaiBook configuration"
+msgstr "Configuració d’AvaiBook"
+
+#: includes/admin.php:56
+msgid "Choose the type of Booking Engine you wish to link, and fill in the requested parameters (those marked with * are mandatory and you will find their value in your private area of ​​AvaiBook)"
+msgstr "Tria el tipus de motor de reserva que vols enllaçar i emplena els paràmetres sol·licitats (els marcats amb* són obligatoris i en trobaràs el valor a la teva àrea privada d’AvaiBook)"
+
+#: includes/admin.php:61
+msgid "Booking Engine type"
+msgstr "Tipus de motor de reserva"
+
+#: includes/admin.php:64
+msgid "Single"
+msgstr "Únic"
+
+#: includes/admin.php:65
+msgid "Multiple"
+msgstr "Múltiple"
+
+#: includes/admin.php:67
+msgid "Choose the type of booking engine you want to use. To a single accommodation or to all your accommodations"
+msgstr "Tria el tipus de motor de reserva que vols fer servir. Per a un allotjament individual o tots els teus allotjaments"
+
+#: includes/admin.php:73
+msgid "Rental Id"
+msgstr "Identificador de lloguer"
+
+#: includes/admin.php:75
+msgid "This is the AvaiBook accommodation Id"
+msgstr "Aquest és l’identificador d’allotjament d’AvaiBook"
+
+#: includes/admin.php:79
+msgid "Reference"
+msgstr "Referència"
+
+#: includes/admin.php:81 includes/admin.php:99
+msgid "(optional) the generated reserves will have this reference so that you can distinguish them"
+msgstr "(opcional) les reserves generades tindran aquesta referència perquè puguis distingir-les bé"
+
+#: includes/admin.php:92
+msgid "This is your customer id in AvaiBook"
+msgstr "Aquest és el teu identificador de client a AvaiBook"
+
+#: includes/admin.php:105
+msgid "Show rental units"
+msgstr "Mostra les unitats de lloguer"
+
+#: includes/admin.php:106
+msgid "Show zones"
+msgstr "Mostra les zones"
+
+#: includes/admin.php:107
+msgid "Show people"
+msgstr "Mostra les persones"
+
+#: includes/admin.php:108
+msgid "Behavior in the booking engine"
+msgstr "Comportament en el motor de reserves"
+
+#: includes/admin.php:116
+msgid "Display options"
+msgstr "Mostra opcions"
+
+#: includes/admin.php:118
+msgid "Choose how you want your widget to be and what colors you want it to have. If you do not mark any of the options below your widget will only be a button."
+msgstr "Trieu com vols que sigui el teu giny i els colors que vols que tingui. Si no marques cap de les opcions que hi ha a sota, el teu giny només serà un botó."
+
+#: includes/admin.php:121
+msgid "title"
+msgstr "títol"
+
+#: includes/admin.php:122
+msgid "This text title will be showed in your form"
+msgstr "Aquest títol de text es mostrarà al teu formulari"
+
+#: includes/admin.php:127
+msgid "Request dates"
+msgstr "Sol·licita les dates"
+
+#: includes/admin.php:128
+msgid "show dates request's fields"
+msgstr "mostra els camps de sol·licitud de dates"
+
+#: includes/admin.php:135
+msgid "Request guest number"
+msgstr "Sol·licita el número d’hostes"
+
+#: includes/admin.php:136
+msgid "show guest's numbers field"
+msgstr "mostra el camp de número d’hostes"
+
+#: includes/admin.php:140
+msgid "Colour settings"
+msgstr "Ajustaments de color"
+
+#: includes/admin.php:141
+msgid "Set empty for keep your default style."
+msgstr "Deixa’l buit per mantenir l’estil predeterminat."
+
+#: includes/admin.php:144
+msgid "Background colour"
+msgstr "Color de fons"
+
+#: includes/admin.php:153
+msgid "Main colour"
+msgstr "Color principal"
+
+#: includes/admin.php:162
+msgid "Text colour"
+msgstr "Color del text"
+
+#: includes/admin.php:176
+msgid "Save changes"
+msgstr "Desar canvis"
+
+#: includes/admin.php:181
+msgid "Options"
+msgstr "Opcions"
+
+#: includes/admin.php:183
+msgid "You can use this shortcode"
+msgstr "Pots fer servir aquest codi curt"
+
+#: includes/admin.php:185
+msgid "Only copy this code, and put it where you want in your post or pages."
+msgstr "Copia només aquest codi i posa’l on vulguis de la teva entrada o pàgina."
+
+#: includes/admin.php:187
+msgid "Or you can use our widget"
+msgstr "També pots fer servir el nostre giny"
+
+#: includes/admin.php:189
+msgid "Go to <a href=\"%s\">widgets section</a> and drag our widget \"avaibook%s\" where you want."
+msgstr "Ves a <a href=\"%s\">widgets section</a> i posa el giny \"avaibook%s\" on vulguis."
+
+#: includes/front.php:11
+msgid "Arrive date"
+msgstr "Data d’arribada"
+
+#: includes/front.php:16
+msgid "Departure date"
+msgstr "Data de sortida"
+
+#: includes/front.php:24 includes/front.php:25
+msgid "Guest Num."
+msgstr "Núm. hoste"
+
+#: includes/front.php:29
+msgid "search"
+msgstr "cerca"
